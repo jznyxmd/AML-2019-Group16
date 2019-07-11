@@ -34,3 +34,9 @@ The path of the other two GD variants are shown as below:
 ![](https://github.com/jznyxmd/AML-2019-Group16/blob/master/ngd_path.png)
 
 The animation of the path can be found in codes and summarized as follows:
+|***GD METHOD***      |***ITERATION NUMBER***|***ERROR***|***PROCESS FEATURES***                               |
+|:--------------------|:---------------------|:----------|:----------------------------------------------------|
+|**PLAIN VANILLA**    |4304                  |9.99 e-05  |Stable; slow at turning point and long shallow valley|
+|**ADAGRAD ALGORITHM**|3760                  |9.98 e-05  |Quicker at turning point; slow at the end as well    |
+|**NAG**              |614                   |9.95 e-05  |Smooth and relatively quick                          |
+
