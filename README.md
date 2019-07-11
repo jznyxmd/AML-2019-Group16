@@ -13,7 +13,6 @@ We experiment 11 different step size and the following plot shows its relationsh
 
 It is noticeable that it’s difficult to converge with either too small or too big step size. 
 Using step size 0.002075 (4304 steps), the path is as below:
-
 ![](https://github.com/jznyxmd/AML-2019-Group16/blob/master/gd_path.png)
 
 
