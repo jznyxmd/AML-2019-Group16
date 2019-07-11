@@ -41,3 +41,5 @@ The animation of the path can be found in codes and summarized as follows:
 |**ADAGRAD ALGORITHM**|3760                  |9.98 e-05  |Quicker at turning point; slow at the end as well    |
 |**NAG**              |614                   |9.95 e-05  |Smooth and relatively quick                          |
 
+The converge ability are better with AdaGrad algorithm and the best when using NAG method. NAG is the most appropriate option for this function.
+
