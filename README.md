@@ -31,7 +31,7 @@ Using step size 0.002075 (4304 steps), the path is as below:
 
 The final error is  9.99e-05, which is acceptable. The path is stable; however, it becomes slow when entering the turning point and getting close to the target (1, 1) point.
 
-## two variants of GD 
+## Two variants of GD 
 The path of the other two GD variants are shown as below: 
 
 ![](https://github.com/jznyxmd/AML-2019-Group16/blob/master/agd_path.png)
