@@ -15,6 +15,9 @@ We choose Rosenbrock function in two-dimensional form:
 
 ***f(x,y)=(1-x)^2+100(y-x^2)^2***
 
+The relevant Python code and workbooks can be found from:
+[](https://github.com/jznyxmd/AML-2019-Group16/blob/master/AML_2019_Coursework_Part1.zip)
+
 The 3D surface presentation of this function is as below:
 
 <img src="https://github.com/jznyxmd/AML-2019-Group16/blob/master/Rosenbrock_Surface.png" width="400" height="300">
